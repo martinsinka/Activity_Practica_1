@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Practica_pantalla</string>
+
+    <string name="TITULO">Unirte a Facebook</string>
+    <string name="titulo">¿Cómo te llamas?</string>
+    <string name="subTitulo">Si usas tu nombre verdadero, tus amigos te\n reconocerán más fácilmente.</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellido">Apellido</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="text1">¿Ya tienes una cuenta?</string>
+    <string name="textA">Español\n Portugués(Brasil)\n Deutsch\n Chino Mandarin</string>
+    <string name="textB">English(US)\n Francais(France)\n Italiano\n Otros</string>
+    <string name="textX">Facebook c2017</string>
+    <string name="textY">Viva Nueva Red Mejor Tecnología</string>
+</resources>
